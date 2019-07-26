@@ -12,8 +12,9 @@
 - [多端适用：Lottie](https://github.com/airbnb/lottie-web)
 
 
-
 ## Awesome Awesome
+
+[微前端:awesome-micro-frontends](https://github.com/rajasegar/awesome-micro-frontends)
 
 
 
