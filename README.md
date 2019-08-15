@@ -14,10 +14,31 @@
 ## Creativity
 
 - [P5.js](https://github.com/processing/p5.js)
+  - canvas绘图库
+- [memory-fs](https://github.com/webpack/memory-fs)
+  - 在内存中维护一个文件系统
+
+## Utils
+
+- [consola](https://github.com/nuxt/consola)
+  - 控制台打印
+- [pify](https://github.com/sindresorhus/pify)
+  - promisify
+- [UAParser.js](https://github.com/faisalman/ua-parser-js)
+  - 用户代理（User-Agent）解析
+
+## Version Management
+
+- [sermer](https://github.com/npm/node-semver)
+  - 版本号管理
+  - https://juejin.im/post/5ad413ba6fb9a028b5485866
 
 ## Awesome Awesome
 
-[微前端:awesome-micro-frontends](https://github.com/rajasegar/awesome-micro-frontends)
+- [awesome-micro-frontends](https://github.com/rajasegar/awesome-micro-frontends)
+  - 微前端
+- [promise-fun](https://github.com/sindresorhus/promise-fun)
+  - promise库集合
 
 
 
