@@ -22,12 +22,19 @@
 
 - [consola](https://github.com/nuxt/consola)
   - 控制台打印
+- [ora](https://github.com/sindresorhus/ora)
+  - 优雅的命令行交互显示
 - [pify](https://github.com/sindresorhus/pify)
   - promisify
 - [UAParser.js](https://github.com/faisalman/ua-parser-js)
   - 用户代理（User-Agent）解析
 
 ## Work Flow
+
+## Patterns
+
+- [injection-js](https://github.com/mgechev/injection-js)
+  - DI 依赖注入
 
 ## Version Management
 
