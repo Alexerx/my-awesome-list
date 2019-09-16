@@ -17,15 +17,27 @@
   - canvas绘图库
 - [memory-fs](https://github.com/webpack/memory-fs)
   - 在内存中维护一个文件系统
+- [blessed-contrib](https://github.com/yaronn/blessed-contrib)
+  - 命令行图表
 
 ## Utils
 
 - [consola](https://github.com/nuxt/consola)
   - 控制台打印
 - [ora](https://github.com/sindresorhus/ora)
-  - 优雅的命令行交互显示
+  - 优雅的命令行状态显示
+- [chalk](https://github.com/chalk/chalk)
+  - 命令行输出带颜色的内容
 - [didyoumean](https://github.com/dcporter/didyoumean.js)
   - 字符串匹配引擎，常用在cli提示用户可能的正确输入
+- [download-git-repo](https://github.com/flipxfx/download-git-repo)
+  - 下载远程仓库
+- [Commander.js](https://github.com/tj/commander.js)
+  - node.js命令行封装库
+- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)\
+  - node.js命令行交互工具
+- [shelljs](https://github.com/shelljs/shelljs)
+  - 跨平台Unix shell命令封装
 - [pify](https://github.com/sindresorhus/pify)
   - promisify
 - [UAParser.js](https://github.com/faisalman/ua-parser-js)
