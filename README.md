@@ -24,6 +24,8 @@
   - 控制台打印
 - [ora](https://github.com/sindresorhus/ora)
   - 优雅的命令行交互显示
+- [didyoumean](https://github.com/dcporter/didyoumean.js)
+  - 字符串匹配引擎，常用在cli提示用户可能的正确输入
 - [pify](https://github.com/sindresorhus/pify)
   - promisify
 - [UAParser.js](https://github.com/faisalman/ua-parser-js)
