@@ -11,6 +11,11 @@
 
 - [多端适用：Lottie](https://github.com/airbnb/lottie-web)
 
+## CSS-in-JS
+
+- [emotion](https://github.com/emotion-js/emotion)
+- [JSS](https://github.com/cssinjs/jss)
+
 ## Creativity
 
 - [P5.js](https://github.com/processing/p5.js)
