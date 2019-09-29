@@ -48,6 +48,8 @@
   - promisify
 - [UAParser.js](https://github.com/faisalman/ua-parser-js)
   - 用户代理（User-Agent）解析
+- [robot](https://github.com/matthewp/robot)
+  - 有限状态机
 
 ## Work Flow
 
