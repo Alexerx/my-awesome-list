@@ -67,7 +67,9 @@
 
 - [sermer](https://github.com/npm/node-semver)
   - 版本号管理
-  - https://juejin.im/post/5ad413ba6fb9a028b5485866
+  - <https://juejin.im/post/5ad413ba6fb9a028b5485866>
+- [npm-check-updates](https://github.com/tjunnone/npm-check-updates)
+  - npm包版本更新
 
 ## Awesome Awesome
 
