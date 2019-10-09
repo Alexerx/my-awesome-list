@@ -28,28 +28,34 @@
 
 ## Utils
 
-- [consola](https://github.com/nuxt/consola)
-  - 控制台打印
-- [ora](https://github.com/sindresorhus/ora)
-  - 优雅的命令行状态显示
-- [chalk](https://github.com/chalk/chalk)
-  - 命令行输出带颜色的内容
+
 - [didyoumean](https://github.com/dcporter/didyoumean.js)
   - 字符串匹配引擎，常用在cli提示用户可能的正确输入
 - [download-git-repo](https://github.com/flipxfx/download-git-repo)
   - 下载远程仓库
-- [Commander.js](https://github.com/tj/commander.js)
-  - node.js命令行封装库
-- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)\
-  - node.js命令行交互工具
-- [shelljs](https://github.com/shelljs/shelljs)
-  - 跨平台Unix shell命令封装
 - [pify](https://github.com/sindresorhus/pify)
   - promisify
 - [UAParser.js](https://github.com/faisalman/ua-parser-js)
   - 用户代理（User-Agent）解析
 - [robot](https://github.com/matthewp/robot)
   - 有限状态机
+
+## Console & Command Line
+
+- [consola](https://github.com/nuxt/consola)
+  - 控制台打印
+- [ora](https://github.com/sindresorhus/ora)
+  - 优雅的命令行状态显示
+- [chalk](https://github.com/chalk/chalk)
+  - 命令行输出带颜色的内容
+- [Commander.js](https://github.com/tj/commander.js)
+  - node.js命令行封装库
+- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)\
+  - node.js命令行交互工具
+- [shelljs](https://github.com/shelljs/shelljs)
+  - 跨平台Unix shell命令封装
+- [execa](https://github.com/sindresorhus/execa)
+  - child_process的更好的封装
 
 ## Work Flow
 
