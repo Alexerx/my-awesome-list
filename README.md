@@ -76,6 +76,10 @@
   - <https://juejin.im/post/5ad413ba6fb9a028b5485866>
 - [npm-check-updates](https://github.com/tjunnone/npm-check-updates)
   - npm包版本更新
+- [standard-version](https://github.com/conventional-changelog/standard-version)
+  - 自动更新版本，生成CHANGELOG
+- [commitizen](https://github.com/commitizen/cz-cli)
+  - 校验commit信息
 
 ## Awesome Awesome
 
