@@ -7,6 +7,13 @@
 - [vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility#installation)
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller)
 
+## flutter
+
+- [flutter-g0](https://github.com/alibaba/flutter-go)
+  - 常用组件demo演示
+- [fun_android_flutter](https://github.com/phoenixsky/fun_android_flutter)
+  - flutter案例app，Provider最佳实践
+
 ## Animation
 
 - [多端适用：Lottie](https://github.com/airbnb/lottie-web)
@@ -27,7 +34,6 @@
   - 命令行图表
 
 ## Utils
-
 
 - [didyoumean](https://github.com/dcporter/didyoumean.js)
   - 字符串匹配引擎，常用在cli提示用户可能的正确输入
@@ -87,8 +93,6 @@
   - 微前端
 - [promise-fun](https://github.com/sindresorhus/promise-fun)
   - promise库集合
-
-
 
 性能监控
 
