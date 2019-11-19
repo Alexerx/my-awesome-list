@@ -7,6 +7,13 @@
 - [vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility#installation)
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller)
 
+## mata manager
+
+- [vue-meta](https://github.com/nuxt/vue-meta)
+  - metaInfo manager for Vue
+- [react-helmet](https://github.com/nfl/react-helmet)
+  - document header manager for React
+
 ## flutter
 
 - [flutter-g0](https://github.com/alibaba/flutter-go)
