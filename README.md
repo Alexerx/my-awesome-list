@@ -39,6 +39,8 @@
   - 在内存中维护一个文件系统
 - [blessed-contrib](https://github.com/yaronn/blessed-contrib)
   - 命令行图表
+- [carbon](https://github.com/carbon-app/carbon)
+  - 生成mac风格的代码图片
 
 ## Utils
 
