@@ -35,7 +35,7 @@
 
 - [P5.js](https://github.com/processing/p5.js)
   - canvas绘图库
-- [memory-fs](https://github.com/webpack/memory-fs)
+- [memfs](https://github.com/streamich/memfs)
   - 在内存中维护一个文件系统
 - [blessed-contrib](https://github.com/yaronn/blessed-contrib)
   - 命令行图表
