@@ -52,6 +52,8 @@
   - 用户代理（User-Agent）解析
 - [robot](https://github.com/matthewp/robot)
   - 有限状态机
+- [ip](https://github.com/indutny/node-ip)
+  - node ip 地址库
 
 ## Console & Command Line
 
