@@ -56,6 +56,8 @@
   - 有限状态机
 - [ip](https://github.com/indutny/node-ip)
   - node ip 地址库
+- [node-lru-cache](https://github.com/isaacs/node-lru-cache)
+  - 最近使用缓存
 
 ## Console & Command Line
 
