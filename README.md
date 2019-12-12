@@ -106,6 +106,8 @@
   - 微前端
 - [promise-fun](https://github.com/sindresorhus/promise-fun)
   - promise库集合
+- [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+- javascript类库合集
 
 性能监控
 
