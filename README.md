@@ -58,6 +58,8 @@
   - node ip 地址库
 - [node-lru-cache](https://github.com/isaacs/node-lru-cache)
   - 最近使用缓存
+- [cuid](https://github.com/ericelliott/cuid)
+  - 生成防碰撞id
 
 ## Console & Command Line
 
