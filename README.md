@@ -60,6 +60,10 @@
   - 最近使用缓存
 - [cuid](https://github.com/ericelliott/cuid)
   - 生成防碰撞id
+- [debug](https://github.com/visionmedia/debug)
+  - debug提示
+- [events](https://github.com/Gozala/events)
+  - Node.js EventEmitter api
 
 ## Console & Command Line
 
@@ -77,6 +81,7 @@
   - 跨平台Unix shell命令封装
 - [execa](https://github.com/sindresorhus/execa)
   - child_process的更好的封装
+
 
 ## Work Flow
 
