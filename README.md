@@ -64,6 +64,8 @@
   - debug提示
 - [events](https://github.com/Gozala/events)
   - Node.js EventEmitter api
+- [chokidar](https://github.com/paulmillr/chokidar)
+  - 文件watcher
 
 ## Console & Command Line
 
