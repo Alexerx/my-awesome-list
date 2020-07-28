@@ -66,6 +66,10 @@
   - Node.js EventEmitter api
 - [chokidar](https://github.com/paulmillr/chokidar)
   - 文件watcher
+- [change-case](https://github.com/blakeembrey/change-case)
+  - 转换字符串大小写格式
+- [react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor)
+  - 代码编辑器
 
 ## Console & Command Line
 
